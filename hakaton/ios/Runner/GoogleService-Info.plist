@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>776345650498-jarh1hveaq9luhc4k3gfkvq4dkakidqh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.776345650498-jarh1hveaq9luhc4k3gfkvq4dkakidqh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>776345650498-ks7j66vufb1rtli6bqtei41mmr082np0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAqJ5Hpak5xespHgAraEXCqDlg7bEO75yk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>776345650498</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.hakaton</string>
+	<key>PROJECT_ID</key>
+	<string>hakaton-8e841</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hakaton-8e841.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:776345650498:ios:3923646e2c913cf29174db</string>
+</dict>
+</plist>
